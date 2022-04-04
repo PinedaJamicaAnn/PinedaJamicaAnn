@@ -17,7 +17,7 @@
 ### Tools I work upon : 🛠
 
 
-<img src="https://img.shields.io/badge/html5%20-%23E00033.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+<img src="https://img.shields.io/badge/html5%20-%23E00033.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"><img src="https://img.shields.io/badge/Python-%231572B6.svg?&style=for-the-badge&logo=Pyhton&logoColor=yellow" /><img src="https://img.shields.io/badge/Csharp-%231572B6.svg?&style=for-the-badge&logo=Csharp&logoColor=violet" />
 
 ### Stats Overview : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pinedajamicaann&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
