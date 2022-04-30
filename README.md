@@ -14,7 +14,7 @@
 ### Current Status Quo:
 
 - 💼 I’m pursuing a <strong>Bachelor of Science in Information Technology</strong>.
-- 🔍 I’m looking for connections in <strong>Web Development</strong> Industry.
+- 🔍 I’m looking for <strong>Web Development.</strong> 
 
 
 ### Tools I work upon : 🛠
